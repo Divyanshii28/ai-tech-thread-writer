@@ -47,16 +47,16 @@ An AI-powered content generation project focused on creating viral-style tweets 
 
 ### Gemini Gem Interface
 
-![Gem Interface](screenshots/Screenshot%202026-05-23%20211906.png)
+![Gem Interface](Screenshot%202026-05-23%20211906.png)
 
 ---
 
 ### Example Generated Output
 
-![Generated Output](screenshots/Screenshot%202026-05-23%20211917.png)
+![Generated Output](Screenshot%202026-05-23%20211917.png)
 
 ---
 
 ### Viral Thread Example
 
-![Viral Thread](screenshots/Screenshot%202026-05-23%20212023.png)
+![Viral Thread](Screenshot%202026-05-23%20212023.png)
