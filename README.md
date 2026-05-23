@@ -42,3 +42,21 @@ An AI-powered content generation project focused on creating viral-style tweets 
 - Hook generation
 - Viral score prediction
 - LinkedIn post generation
+
+## Screenshots
+
+### Gemini Gem Interface
+
+![Gem Interface](screenshots/Screenshot%202026-05-23%20211906.png)
+
+---
+
+### Example Generated Output
+
+![Generated Output](screenshots/Screenshot%202026-05-23%20211917.png)
+
+---
+
+### Viral Thread Example
+
+![Viral Thread](screenshots/Screenshot%202026-05-23%20212023.png)
